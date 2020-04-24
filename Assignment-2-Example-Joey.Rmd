@@ -12,10 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 This is about an investigation of which country's wine is generallly better. This is about an investigation of which country's wine is generallly better. This is about an investigation of which country's wine is generallly better. This is about an investigation of which country's wine is generallly better. This is about an investigation of which country's wine is generallly better. 
 
 ## Table
-
-## Graph
-
-## Conclusion
 |Marks                     |1-10 |
 |--------------------------|:---:|
 | Overall effort           |     | 
@@ -28,10 +24,13 @@ This is about an investigation of which country's wine is generallly better. Thi
 | 2 Tables refrenced       |     |
 | Overall report quality   |     |
 
-=======
 
+
+## Graph
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
->>>>>>> graph
 
+
+
+## Conclusion
