@@ -26,3 +26,18 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+|Marks                     |1-10 |
+|--------------------------|:---:|
+| Overall effort           |     | 
+| Clear commits            |     | 
+| Created 2 branches       |     |  
+| Merged 2 branches        |     |
+| 2 Graphs with captions   |     |
+| 2 Graphs referenced      |     |
+| 2 Tables with captions   |     |
+| 2 Tables refrenced       |     |
+| Overall report quality   |     |
+
+
