@@ -3,6 +3,7 @@ title: "Assignment-2-Joey"
 output: html_document
 ---
 
+<<<<<<< HEAD
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -27,4 +28,10 @@ This is about an investigation of which country's wine is generallly better. Thi
 | 2 Tables refrenced       |     |
 | Overall report quality   |     |
 
+=======
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+>>>>>>> graph
 
